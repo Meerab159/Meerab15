@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meerab Abdul Khaliq</h1>
 
-<h3 align="center">Learning Programming from Pakistan 🇵🇰
+<h3 align="center">Learning Programming from Pakistan 🇵🇰</h3>
 
 <p align="center">
  I am currently learning HTML, CSS, JavaScript, and Python. I'm passionate about programming and always eager to learn new technologies and build creative projects.
